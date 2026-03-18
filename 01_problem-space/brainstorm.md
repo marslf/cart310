@@ -52,8 +52,46 @@
 - clear problem and feature ideas
 - easy access to users
 - fun and creative
-- if designed well, not overlt corporate
+- if designed well = not overly corporate, can be really fun
 
 **Cons**
 - Similar tools do exist already (facebook events, however pretty much none of my friends use it enough for that to be a good solution)
 - Need to be distinct enough from formal event planning tools
+
+---------------------------
+
+## Expanding the idea: Intentional Friendship / Caring
+
+While my initial idea focuses on hosting and planning hangouts, 
+I think I can expand this into something broader and more meaningful around friendships.
+
+**Shift in focus:**
+Not just *planning events*, but supporting people who care about their friends and want to be more intentional in how they show up for them.
+
+**Why expand this:**
+- I care deeply about my friends and like hosting as a way to bring people together
+- A lot of friendship maintenance currently happens across fragmented platforms (messaging apps, social media, etc.)
+- It can be difficult to consistently check in, or plan meaningful interactions
+- Existing tools focus on logistics, not emotional or social intention
+
+**Problem space:**
+- Forgetting to check in with friends regularly
+- Wanting to make plans but feeling overwhelmed coordinating people
+- Struggling to keep track of small personal details (preferences, important dates, past hangouts)
+- Social interactions becoming reactive instead of intentional
+
+**Possible directions / features:**
+- Planning tools (polls, availability, shared lists) but designed for *casual* hangouts, not formal events
+- Shared memory spaces (photos, notes, “moments” from hangouts)
+- Light reminders to reach out or make plans (non-intrusive, not productivity-focused)
+- Tracking ideas for future hangouts (movies to watch, recipes to try, places to go)
+
+**Tone / design intention:**
+- Playful, warm, and low-pressure (not corporate or productivity-heavy)
+- Focus on emotional connection rather than efficiency
+- Feels like a space for close friends, not networking or large events
+
+**Potential “How Might We” questions:**
+- How might we support people in being more intentional with their friendships?
+- How might we make planning casual hangouts feel easy and enjoyable instead of stressful?
+- How might we help friend groups stay connected beyond just messaging?
