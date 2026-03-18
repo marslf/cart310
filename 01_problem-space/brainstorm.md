@@ -1,3 +1,5 @@
+#### [Journal](.../journal.md) | [Projects](projects.md) | [Resources](resources.md)
+
 # Brainstorming: Project Ideas Exploration
 
 ##  Baking and Cooking / Recipe Sharing App
