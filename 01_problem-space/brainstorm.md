@@ -6,7 +6,7 @@
 
 **Main idea:** a platform to share recipes (either links you find online or your own recipes), photos, and baking experience
 
-**Why?** 
+**Why?**
 - I love to bake and do it a lot
 - I use many different sites and cookbooks + my own family recipes and often forget where I found one specific recipe I want to remake
 - Creative + fun + visual
@@ -32,13 +32,13 @@
 **Pros:**
 - easy to research
 - clear functionality
-- I already have some personal experience using this type of app and I know what I (and others) don't like about them 
+- I already have some personal experience using this type of app and I know what I (and others) don't like about them
 
 **Cons:**
 - also very saturated (Goodreads, Storygraph, Fable, Libib, Bookmory, Bookly)
 - again could feel repetitive / too similar to others / not distinct enough
 
-## Hosting / Event Planning App 
+## Hosting / Event Planning App
 
 **I am probably going to go with this one! (most distinct idea + most inspired feeling)**
 
@@ -64,7 +64,7 @@
 
 ## Expanding the idea: Intentional Friendship / Caring
 
-While my initial idea focuses on hosting and planning hangouts, 
+While my initial idea focuses on hosting and planning hangouts,
 I think I can expand this into something broader and more meaningful around friendships.
 
 **Shift in focus:**

@@ -32,9 +32,21 @@ It proves the real positive impact that this tool could have if it became a real
 ### [The Friendship Recession: The Lost Art of Connecting](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting)
 #### By Carolyn Bruckmann, published by the Cneter for Public Leadership of Harvard Kennedy School
 
-- **Declining friendships:** Since 1990, Americans with no close friends quadrupled; social time has dropped significantly (Bruckmann, 2025).
-- **Digital interactions aren’t enough:** Online friendships cannot fully replace in-person interactions; physical presence triggers biological bonding responses.
-- **Intentionality matters:** Forming friendships requires effort — planning shared experiences, embracing discomfort, and showing up.
-- **Rituals and consistency sustain friendships:** Regular meetups, recurring group activities, and shared challenges deepen bonds.
-- **Cultural barriers:** Work, family responsibilities, and declining community infrastructure reduce natural social opportunities.
-- **Implication for project:** An app that helps users intentionally form and sustain friendships, through organizing shared experiences and creating repeatable social rituals, could counteract cultural trends contributing to social isolation.
+- **Declining friendships:** 
+Since 1990, Americans with no close friends quadrupled; social time has dropped significantly (Bruckmann, 2025).
+
+- **Digital interactions aren’t enough:** 
+Online friendships cannot fully replace in-person interactions; physical presence triggers biological bonding responses.
+
+- **Intentionality matters:** 
+Forming friendships requires effort: planning shared experiences, embracing discomfort, and showing up.
+
+- **Rituals and consistency sustain friendships:** 
+Regular meetups, recurring group activities, and shared challenges deepen bonds.
+
+- **Cultural barriers:** 
+Work, family responsibilities, and declining community infrastructure reduce natural social opportunities.
+
+**Implication for project:** 
+An app that helps users intentionally form and sustain friendships, through organizing shared experiences 
+and creating repeatable social rituals, could counteract cultural trends contributing to social isolation.
