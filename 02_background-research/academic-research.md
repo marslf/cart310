@@ -1,3 +1,5 @@
+#### [Home](../README.md) | [Journal](../journal.md) | [Completed Findings](background-research-findings.md)
+
 # Academic Research
 
 ## Psychological / Social Research

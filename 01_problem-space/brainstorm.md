@@ -1,4 +1,4 @@
-#### [Journal](.../journal.md) | [Projects](projects.md) | [Resources](resources.md)
+#### [Home](../README.md) | [Journal](../journal.md) | [Next](../02_background-research/background-research-findings.md)
 
 # Brainstorming: Project Ideas Exploration
 
