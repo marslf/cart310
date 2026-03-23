@@ -129,12 +129,24 @@ It can help suggest easy ideas that you will both enjoy, so you can use that bra
 
 ## 19-03-2026
 
-Wrote the [interview questions](03_user-research/interview-questions.md)! 
+This morning I wrote the [interview questions](03_user-research/interview-questions.md) for the user research part of this project. 
+Since friendship is so unique to each person I opted to go with the interview/discussion rather than a survey like some people did.
+I also don't think observation / think-aloud sessions will be helpful for this either. 
+I also decided to use the questions as more of a guide for the conversation with each interviewee but when they wanted to focus
+on something in particular, I let them steer the discussion in that direction. 
 
-Interviewed 4 people during CART 315 class time (project check-in)
-Really interesting discussion and what people are looking for / would find useful
-- newletter type update of your friends life
-- you can respond/comment but probably just privately so that it doesnt feel so performative and like social media (instagram and al.)
-- prompts that you can answer and see your friends answers = spark discussions
-- shared calendar 
-- 
+I had my CART-315 Game Prototyping class today. We just had to do our quick project check-in, then we were free to go home or work on our projects in class.
+So I decided to use this time to conduct a few interviews with some classmates. 
+I was able to get 4 done and I found them interesting and insightful.
+People would clearly find use in my project if it ever became a real app. 
+
+The interviewees brought up their own ideas/features they would find useful when it comes to staying connected with friends.
+Here's what people thought would be very helpful to them:
+- newsletter style update of your friends life = you can respond/comment but just privately so that it doesnt feel so performative and like social media (instagram and al.)
+- prompts that you can answer and see your friends answers = spark discussions , not everyday , low pressure and random
+- shared calendar super useful to figure out availabilities
+
+To record the [interviews](03_user-research/interview-recordings) I simply used my phone and then to write the [transcripts](03_user-research/interview-transcripts.md), 
+I used [Vibe](https://thewh1teagle.github.io/vibe/) which is free, open source, and according to what I read online, very reliable and accurate.
+I still have at least 1 more interview to get done to hit the minimum, but if I can, I definetly want to get more done 
+because I found them very beneficial.
