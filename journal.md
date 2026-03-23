@@ -53,27 +53,81 @@ short [article](https://www.apa.org/monitor/2023/06/cover-story-science-friendsh
 which proves that this tool which could help sustain meaningful platonic bonds can have a real concrete positive impact on users.
 I also read an [article](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting) 
 that discusses how the art of connecting is disappearing due to cultural trends contributing to social isolation. 
-Again, this article proves that there is actual need / problem and this platform could counteract these trends.s
+Again, this article proves that there is actual need / problem and this platform could counteract these trends.
 
 ## 18-03-2026
 
-WILL UPDATE PROPERLY THIS IS A DRAFT FROM AFTER THE DISCUSSION
+During class, we were given time to talk one-on-one about our project idea to get some feedback and ideas if we wanted to.
+I really wanted some feedback to see if my idea was actually interesting and something people would possibly use.
+I found the discussion really helpful and it helped me transform it in my mind from a vague idea to something I could actually visualize.
+We came up with lots of really great ideas (thank you Rilla ♥ !!!).
 
-Discussion 
+Like I mentioned in the previous entry, my platform idea is to simplify keeping up with friends and maintaining/strenghtening platonic bonds.
+I am going to list and describe the ideas that came from the discussion in no real logical order, anyways here we go!
+
+### Discussion Summary Notes
 focus: intentional friendship
 - what people value in friendships = remind people and easy to remember via the app= example if someone values words of affirmation, or if their prefered method of communication is calls over text
 - facebook style blast from the past
-- grand idea of sustaining deep bonds = intentionality
-- goodbye volcano high = ring visualization of closeness 
-- maybe space themed = gravity pull + falling out of orbit 
-- interaction history ? meta app "tracking" interactions of other app thru ur platforms 
-- is this person still your friend = exo planet / out of orbit / pluto / drifting apart 
+- goodbye volcano high = ring visualization of closeness
+- maybe space themed = gravity pull + falling out of orbit
+- interaction history ? meta app "tracking" interactions of other app thru ur platforms
+- is this person still your friend = exo planet / out of orbit / pluto / drifting apart
 - example: you buy concert tickets + history of going to concerts w/ person A = do you want to invite them to go with you?
-- 
+
+### Personalizing Friendship
+
+We thought about working with the general idea of [the 5 love languages](https://www.mindbodygreen.com/articles/the-5-love-languages-explained?srsltid=AfmBOoqOymm5w5zanjJqV6OtrAU5Clx-HqXxMLyNEf0bKvHm4R_K3DGO).
+(WARNING this is gonna be a not super important tangent/ramble! I started writing and only realized until it was too late and since this is a journal oh well! Read it or don't, it is up to you) 
+I think they are more often used when talking about romantic relationships, but I don't even fully agree with the whole idea that your 
+romantic partner is the most important end all be all bond in your life. Obviously you won't connect as deeply with all friends, 
+but I do think platonic love is so undervalued, and it is so important for us to nurture and hold onto those relationships, even after you get into a romantic relationship.
+This is a reason why I think this app could be genuinely helpful. But I digress... 
+
+The idea here would be to have people's favourite love languages, so you could receive customized / personalized reminders for each person. 
+I also think this idea can be pushed further and have it be even more personalized, so the algorithm of the platform could learn more than just your friend's
+preferred love languages, but it can also remind you of their favourite snacks or activities they enjoy.
+Like if your friend Sam really likes quality time, you could receive a notification that says 
+something along the lines of: |You haven't checked in with Sam in a while, how about you two go see a movie in theater's this weekend! You're both free Saturday night!!"
+In summary, the idea is to personalize it for what each person needs/wants/values in a friendship. + Help you be a better (more intentional) friend! 
+
+
+### Nostalgia as a Trigger
+
+Another idea that came up is inspired by those Facebook _On This Day_ notifications. Most of the time, on Facebook, they really miss the mark because
+they remind you of the most random stuff like a random coworker that you haven't spoken to in 3 years wishing you a happy birthday 4 years ago
+or just random posts that are meaningless. However, since this app will really just be used for friendships, it won't be littered with random meaningless posts and pictures.
+I already wanted to add shared photo album spaces, so if you haven't hung out with a group of friends in a while, 
+it can choose a memory from the album and remind you of them. Who wouldn't feel nostalgic and want to reach out?
+
+![facebook on this day](assets/fb_on-this-day.png)
+
+### Visualizing Closeness
+
+During our discussion, Rilla thought of the game _Goodbye Volcano High_ and how they visualize how close you are to the NPCs in the game.
+They use these rings that are surrounding you and the NPC pictures can move closer or further away from you depending on how close you are to them. 
+I don't know the game but it looks a lot like planets around the sun with their orbits.
+
+I really love the visuals and I definitely think I could implement this type of feature in my platform. The second she showed me a picture I thought of 
+seeing closeness like orbits. I really like the idea of leaning into that space theming for the entirety of the platform (form following function?)
+It feels right because it is right. This inspired me even further. 
+If there is a growing distance between you and someone, you could see it as losing your gravitational pull or falling out of orbit.
+If you no longer want to be friends with someone (for whatever reason), you could release them from your orbit, or turn them into an exo planet / pluto.
+Anyways, I really like this idea and can't wait to explore how I can push it.
+
+![Goodbye Volcano High rings close](assets/ring_2.webp)
+
+### Smart Suggestions
+
+An issue that came up is how will my platform track your interactions with your friends if you use other platforms. 
+We decided to disregard that issue and just decide to say that it can (meta). 
+This opens up other opportunities like the possibility for the app to recommend invites. 
+The example we came up with was if you buy concert tickets and you have a history of going to concerts with Anthony and he listens to that artists,
+then the app will suggest you invite Anthony to go to that concert you just bought tickets for. 
+It can help suggest easy ideas that you will both enjoy, so you can use that brain power for other things. 
+
 
 ## 19-03-2026
-
-WILL UPDATE PROPERLY THIS IS A DRAFT
 
 Wrote the [interview questions](03_user-research/interview-questions.md)! 
 
