@@ -148,5 +148,22 @@ Here's what people thought would be very helpful to them:
 
 To record the [interviews](03_user-research/interview-recordings) I simply used my phone and then to write the [transcripts](03_user-research/interview-transcripts.md), 
 I used [Vibe](https://thewh1teagle.github.io/vibe/) which is free, open source, and according to what I read online, very reliable and accurate.
-I still have at least 1 more interview to get done to hit the minimum, but if I can, I definetly want to get more done 
+I still have at least 1 more interview to get done to hit the minimum, but if I can, I definitely want to get more done 
 because I found them very beneficial.
+
+
+## 22-03-2026
+
+Today I took some time to properly look into existing tools that relate to my project idea. 
+I had already explored a lot of these apps before, but I realized I hadn’t actually documented any of it in a structured way, 
+so I went back and wrote it all down.
+
+Looking at everything side by side made something really clear: there are a lot of tools that do parts of what I’m imagining (messaging, planning, memory sharing, etc.), 
+but none of them really bring it all together in a way that supports maintaining friendships intentionally. 
+They all feel a bit fragmented or focused on one specific function.
+
+This was actually reassuring because it makes the idea feel more valid and worth exploring.
+
+I’ve also been thinking a bit about naming, and I really like **InOrbit** as a potential name for the platform. 
+It connects well with the space theme and the idea of friendships existing in different levels of closeness, 
+like people moving in and out of your orbit. It feels fitting for the direction this project is going in.
