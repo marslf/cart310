@@ -1,4 +1,5 @@
-#### [Home](README.md) | [Journal](journal.md) | [1- Problem Space](01_problem-space/brainstorm.md) | [2- Background Research](02_background-research/background-research-findings.md) | [3- User Research](03_user-research/user-research-findings.md)
+#### [Home](README.md) | [Journal](journal.md) | [1- Problem Space](01_problem-space/brainstorm.md) | [2- Background Research](02_background-research/background-research-findings.md) | [3- User Research](03_user-research/user-research-findings.md) | [4- Analysis](04_analysis/analysis-summary.md) | [5- Prototypes](05_prototyping/prototype-evaluation.md) 
+
 
 # CART-310 Final Project - Process Journal
 
@@ -12,6 +13,10 @@ Unlike the other markdown files, which focus on more finalized or directly relev
 this journal is more informal and process-based. 
 
 ![silly pic](assets/hey_so.webp)
+
+---
+
+---
 
 ## 17-03-2026
 
@@ -54,6 +59,8 @@ which proves that this tool which could help sustain meaningful platonic bonds c
 I also read an [article](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting) 
 that discusses how the art of connecting is disappearing due to cultural trends contributing to social isolation. 
 Again, this article proves that there is actual need / problem and this platform could counteract these trends.
+
+---
 
 ## 18-03-2026
 
@@ -126,6 +133,7 @@ The example we came up with was if you buy concert tickets and you have a histor
 then the app will suggest you invite Anthony to go to that concert you just bought tickets for. 
 It can help suggest easy ideas that you will both enjoy, so you can use that brain power for other things. 
 
+---
 
 ## 19-03-2026
 
@@ -151,6 +159,7 @@ I used [Vibe](https://thewh1teagle.github.io/vibe/) which is free, open source, 
 I still have at least 1 more interview to get done to hit the minimum, but if I can, I definitely want to get more done 
 because I found them very beneficial.
 
+---
 
 ## 22-03-2026
 
@@ -168,6 +177,7 @@ I’ve also been thinking a bit about naming, and I really like **InOrbit** as a
 It connects well with the space theme and the idea of friendships existing in different levels of closeness, 
 like people moving in and out of your orbit. It feels fitting for the direction this project is going in.
 
+---
 
 ## 23-03-2026
 
@@ -199,3 +209,6 @@ a collection of features.
 - **Prompts / conversation starters:** Occasional low-pressure prompts to spark interaction or deeper conversations.
 - **Shared group spaces (albums, notes, ideas):** Expanded spaces for friend groups beyond just individual relationships
 
+---
+
+## 24-03-2026
