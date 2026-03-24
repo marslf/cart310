@@ -167,3 +167,35 @@ This was actually reassuring because it makes the idea feel more valid and worth
 I’ve also been thinking a bit about naming, and I really like **InOrbit** as a potential name for the platform. 
 It connects well with the space theme and the idea of friendships existing in different levels of closeness, 
 like people moving in and out of your orbit. It feels fitting for the direction this project is going in.
+
+
+## 23-03-2026
+
+I am going to start my first prototype soon, but before jumping into that I want to take a step back and 
+clearly outline the features I’ve been thinking about. Up until now, a lot of my ideas have been more conceptual and 
+scattered across notes, so I think this will help me ground the project and make more intentional design decisions moving forward. 
+I also want to avoid trying to do too much at once, especially for the first iteration.
+
+Because of that, I want to separate what feels essential to the core idea of the platform from what would be nice additions, 
+but are not necessary for it to function or communicate its purpose. This should help me stay focused and make sure 
+my prototype actually reflects the main goal of supporting intentional friendships, rather than just becoming 
+a collection of features.
+
+#### Core Features
+
+- **Friend Profiles:** Basic profiles for each friend including preferences (communication style, things they enjoy, etc.) = personalized and intentional
+- **Closeness visualization (orbit system):** A central visual system showing relationships as orbits / distance, representing how close or distant you are from different friends
+- **Interaction tracking:** A way to log or infer interactions over time (messages, hangouts, etc.) = maintaining relationships
+- **Reminders to reach out:** Gentle, non-intrusive prompts based on time since last interaction or known preferences (customization?)
+- **Shared memories (photos/moments):** A space tied to specific friendships or groups to store and revisit shared experiences
+- **Simple planning tools (casual)**: Features like availability, polls, or notes to make organizing hangouts easier without making it feel formal
+
+
+#### Extra Features 
+
+- **Smart suggestions:** Recommending activities or people to invite based on past interactions or shared interests
+- **Memory resurfacing / nostalgia triggers:** Bringing back past shared moments to encourage reconnection
+- **Friendship “insights”:** Patterns like how often you see someone or how relationships change over time.
+- **Prompts / conversation starters:** Occasional low-pressure prompts to spark interaction or deeper conversations.
+- **Shared group spaces (albums, notes, ideas):** Expanded spaces for friend groups beyond just individual relationships
+
