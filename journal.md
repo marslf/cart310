@@ -176,6 +176,8 @@ This was actually reassuring because it makes the idea feel more valid and worth
 I’ve also been thinking a bit about naming, and I really like **InOrbit** as a potential name for the platform. 
 It connects well with the space theme and the idea of friendships existing in different levels of closeness, 
 like people moving in and out of your orbit. It feels fitting for the direction this project is going in.
+I am going to use this as a placeholder. It could potentially be the final name I use, but I might also change it. 
+I really like it, but I want to stay open to finding something better. 
 
 ---
 
@@ -209,6 +211,15 @@ a collection of features.
 - **Prompts / conversation starters:** Occasional low-pressure prompts to spark interaction or deeper conversations.
 - **Shared group spaces (albums, notes, ideas):** Expanded spaces for friend groups beyond just individual relationships
 
+Overall, I think this helped me clarify what actually matters for this project. It’s easy to get carried away with adding features, 
+but at the end of the day I just want this to feel meaningful and true to the idea. Now I feel a bit more grounded going into the first prototype.
+
 ---
 
 ## 24-03-2026
+
+I had class all day until 9:45 but thankfully Michael let me interview him after our class together. Yay! I got all of the interviews done! 
+I also did some minimal restructuring / organization of my repo just so that navigation between sections could be easier! Very minor edits though.
+I once again used Vibe to transcribe the last interview and added that to the [interview transcripts](03_user-research/interview-transcripts.md) file. 
+I also added the recording into the proper folder. 
+

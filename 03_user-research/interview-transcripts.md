@@ -3,6 +3,8 @@
 
 # Interview Transcripts
 
+Transcribed using Vibe (free and open-source)
+
 ## 1- Interview with Josephine 19-03-2026
 
 Do you consent to this being recorded?
@@ -739,3 +741,74 @@ Like the last movie you watched or something like that. I just like little like 
 
 
 --- 
+## 5- Interview with Michael 24-03-2026
+
+do you consent to this conversation being recorded
+i so consent to this conversation being recorded thank you so we're gonna talk about like friendship
+and uh keep maintaining friendships and stuff like that okay and you can answer like as much
+or as little as you want it's up to you all right first of all what like qualities slash
+behaviors do you most value in a friendship oh god okay well i like somebody who acts like me
+i don't want actually okay that's not entirely true but i love somebody who i can predict because
+um like i don't want to be like
+yeah i wasn't really cool he's like really similar to me i don't want like the opposites attract no
+no you're not that person if if you like check off the boxes that i have the more the merrier you love
+yourself exactly i'm a bit of a narcissist in that in that fashion okay as at least you're self-aware
+yeah okay um can you describe a friendship in your life like current or past that was
+like very very meaningful to you and what made that friendship so meaningful okay oh god okay so
+i like like one of my best friends
+she's like oh god wait and i'm really realizing it maybe i take the last question and i change it
+because there has seems to have been a trend where i've become friends with really really depressed
+people like and i'm not that person anymore and like okay yeah that's what i have to say what made
+that your best friend that friendship so meaningful she we met in like the 10th grade and she was just
+going through a whole ton of shit and i was like yeah period and like i was having a fine time she went
+through even more shit as we were friends and i just had to like be there and i and i and like
+i don't say a lot of words but i do love to listen and that's what i like that's what i like i like to
+listen you like to be the shoulder someone can cry on
+or is sure let's go for that you're someone just vent to tend to be the shoulder to cry on okay
+okay um how do you usually well you kind of you already have answered that how do you usually show care or support to your friends and how do you like to receive care and support from your friends i mean i'm always i'm always happy to listen to people and like like be a sounding board which is a word that i love and need to say more um yeah and i also like giving gifts but also i'm really bad at it
+okay um and how do you like to receive oh be shown care and support like i don't really care like
+anyway i just like having attention that's what i like i think somebody like attending to me or like like
+thinking about me i just like the idea of being perceived by someone who i'm friends with
+okay but not by anyone else okay if you're a stranger don't perceive me okay um how do you usually stay in touch with your friends and what works best for you to keep in touch i'm a bad texter but like i will try to like i i'd much rather hang out with someone in person
+but i'm also still bad with like yeah what about like calls and stuff i don't really call people enough
+um and when people like facetime me i kind of get annoyed okay but also it's fun do you do like one-on-one hangouts or do you do more like group hangouts i prefer group hangouts
+but depending on the person i'm yeah it depends on the person yeah uh do you think it's very important to actively maintain friendships
+like consistently i think so yeah like i i only talked to like three people from high school
+and i also i had a whole lot of friends from schools before high school
+who no longer exist yeah um but i kind of wish i still talked to those people because like where are they now
+um so i think yeah it's pretty important to maintain friendships because i imagine myself in like
+at age 50 and thinking where did everyone go okay speaking of like friendships that have like faded away
+um and like you accidentally like lost touch with these people that were important to you at some
+point in your life what like contributed to that fade away like yeah you i get you graduated yeah i mean i
+guess it's just like we're no longer required to be near each other like we don't know we don't have the necessity of
+being side by side 24 7 like or like daily um but also it's like like there's they were out of your
+routine i guess i guess yeah like they're not like yeah they're exact that's exactly what it is i think
+they're just out of my routine okay um are they're like no i'm skipping that because we already have to
+um what would make it easier for you to maintain friendships over time like what type of thing
+would have helped you um answer honestly okay um i think like probably an app
+no i don't know i don't know like it's like like because they were out of your routine and did you like
+forget about i didn't forget about them but i was kind of like out of sight out of mind yeah i i decided
+out of mind and i was kind of honestly like anxious that like they didn't want to talk to me okay um
+but i also like that yeah um
+yeah so i i kind of felt like
+they probably like have other problems and like since since i'm not like like begging at their door
+every day like they can cope without having me there so it's like okay whatever so yeah like i think
+it's an extension of me not being in the in their routine as well yeah if that answers the question
+yeah yeah which i've forgotten yeah for sure sure um would an app that could help you track or strengthen
+friendships like help you and what would if you had that type of app an app with the goal to help
+you maintain friendships what features would you find the most useful like what things would you be like
+oh that would be a solution right i would consistently use yeah i have to think about that but like
+what wouldn't be a solution i wouldn't i don't need another chat app i don't need another messaging
+system i don't think unless there's something special about it um what would help me is maybe like
+i it would be kind of useful to see like a status if somebody could like put a status saying open to
+to to socializing or something like that um like i don't know if there's like a like i mean that's
+that's that's what i'm really thinking about it's like saying like having a little little icon that
+says this person is you can call him or use this person ask to hang out or like whatever um and you
+would change your status i think so if i had enough people on there and if i had like
+yeah what would worry me though is like having people i guess at listed as friends on that app who i
+actually kind of don't want to talk to so what i would want is the ability to like keep people on
+there just group them maybe separate them into the like people that you put out of politeness that you
+added out of i yeah but not necessarily that that like direct like i could just say these are my friends
+from high school i'll put them into a group but i don't really want them to know that i'm like available
+yeah right now yeah okay no i get what you're saying anything else is there anything else okay i'm good
+okay thank you so much thank you so much
