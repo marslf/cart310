@@ -223,3 +223,18 @@ I also did some minimal restructuring / organization of my repo just so that nav
 I once again used Vibe to transcribe the last interview and added that to the [interview transcripts](03_user-research/interview-transcripts.md) file. 
 I also added the recording into the proper folder. 
 
+Since I had finally gotten all 5 interviews done, I took the time to go through them again and analyse the patterns I noticed.
+I created an [empathy map](https://www.figma.com/board/nhElbppA5jBVV5bPPlDj0h/Empathy-Map---final-project?node-id=0-1&t=DBbOZLK0I2jCgCzC-1) 
+using a template on Figma. 
+
+I also wrote a written analysis because it helped me get all my ideas in order and organized instead of jumbled in my mind.
+Both the written user findings and the empathy map are in the same 
+[user research findings document](03_user-research/user-research-findings.md).
+
+## 25-03-2026
+
+
+I got the first prototype done today!
+
+https://www.webdesignmuseum.org/
+https://www.behance.net/search/projects/app%20design%20mobile
