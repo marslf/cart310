@@ -193,6 +193,13 @@ but are not necessary for it to function or communicate its purpose. This should
 my prototype actually reflects the main goal of supporting intentional friendships, rather than just becoming 
 a collection of features.
 
+### Pages:
+- your profile + your friend profiles + friend groups
+- orbit visualization
+- planning / coordination tool 
+- shared memories + weekly prompt answers + life update feed of your friends 
+- chat / interacting with friends 
+
 #### Core Features
 
 - **Friend Profiles:** Basic profiles for each friend including preferences (communication style, things they enjoy, etc.) = personalized and intentional
@@ -210,6 +217,7 @@ a collection of features.
 - **Friendship “insights”:** Patterns like how often you see someone or how relationships change over time.
 - **Prompts / conversation starters:** Occasional low-pressure prompts to spark interaction or deeper conversations.
 - **Shared group spaces (albums, notes, ideas):** Expanded spaces for friend groups beyond just individual relationships
+- **Upcoming plans**: reminders and notification page maybe to see what is upcoming and who you should schedule plans with
 
 Overall, I think this helped me clarify what actually matters for this project. It’s easy to get carried away with adding features, 
 but at the end of the day I just want this to feel meaningful and true to the idea. Now I feel a bit more grounded going into the first prototype.
@@ -224,13 +232,13 @@ I once again used Vibe to transcribe the last interview and added that to the [i
 I also added the recording into the proper folder. 
 
 Since I had finally gotten all 5 interviews done, I took the time to go through them again and analyse the patterns I noticed.
-I created an [empathy map](https://www.figma.com/board/nhElbppA5jBVV5bPPlDj0h/Empathy-Map---final-project?node-id=0-1&t=DBbOZLK0I2jCgCzC-1) 
+I created an [empathy map](https://www.figma.com/board/nhElbppA5jBVV5bPPlDj0h/Final-Project-310?node-id=0-1&p=f&t=uHJr8Xh4zLAssgJr-0) 
 using a template on Figma. 
 
 I also wrote a written analysis because it helped me get all my ideas in order and organized instead of jumbled in my mind.
 Both the written user findings and the empathy map are in the same 
 [user research findings document](03_user-research/user-research-findings.md).
-
+s
 ## 25-03-2026
 
 

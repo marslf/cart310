@@ -2,7 +2,7 @@
 
 # User Research Findings
 
-After completing my 5 interviews, I created an [empathy map](https://www.figma.com/board/nhElbppA5jBVV5bPPlDj0h/Empathy-Map---final-project?node-id=0-1&t=DBbOZLK0I2jCgCzC-1) to better understand patterns across participants and visualize their needs, behaviors, and emotions.
+After completing my 5 interviews, I created an [empathy map](https://www.figma.com/board/nhElbppA5jBVV5bPPlDj0h/Final-Project-310?node-id=0-1&p=f&t=uHJr8Xh4zLAssgJr-0) to better understand patterns across participants and visualize their needs, behaviors, and emotions.
 
 ![figma empathy map](../assets/empathy-map.png)
 
