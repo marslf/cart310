@@ -163,7 +163,7 @@ because I found them very beneficial.
 
 ## 22-03-2026
 
-Today I took some time to properly look into existing tools that relate to my project idea. 
+Today I took some time to properly look into [existing tools](02_background-research/existing-tools.md) that relate to my project idea. 
 I had already explored a lot of these apps before, but I realized I hadn’t actually documented any of it in a structured way, 
 so I went back and wrote it all down.
 
@@ -238,11 +238,91 @@ using a template on Figma.
 I also wrote a written analysis because it helped me get all my ideas in order and organized instead of jumbled in my mind.
 Both the written user findings and the empathy map are in the same 
 [user research findings document](03_user-research/user-research-findings.md).
-s
+
+A few days ago, I had completed the [academic research](02_background-research/academic-research.md) that related to my topic 
+and researched the [existing tools](02_background-research/existing-tools.md) that overlapped with my project 
+but did not properly address all the needs I wanted to meet. However, I realized that I didn't write the background research findings, 
+which meant I hadn’t yet synthesized the insights from both the academic research and the existing tools to clearly show how they connect to my project. 
+Writing the background research findings allowed me to tie these pieces together, identify gaps in the current landscape, 
+and justify the direction and purpose of my project.
+
+---
+
 ## 25-03-2026
 
+Now it was time to create my first prototype. 
+I didn't really know where to start. To be honest, my brain felt like mush and I felt like I had never seen an app in my life.
+Michael recommended I find inspiration on a few sites; [Web Design Museum](https://www.webdesignmuseum.org/) 
+and [Behance](https://www.behance.net/search/projects/app%20design%20mobile).
+[Web Design Museum](https://www.webdesignmuseum.org/) was not the most helpful for my vision but it was fun to look around, and
+I think it could be interesting to explore more if I wanted to go towards a more creative/unique/"retro" direction.
+[Behance](https://www.behance.net/search/projects/app%20design%20mobile) was very useful though because I could look into
+lots of modern apps and how they organized their layout. 
+I do want to try to go in a less standardized direction and experiment / play with the design of my app. 
+However, before I play around and experiment, I want to establish a foundation and a layout that users can easily navigate.
 
-I got the first prototype done today!
+I started by drawing up a few sketches and figuring out what I wanted to focus on for the first prototype.
+I sketched out the main orbit page layout first since it is the key / central idea of my platform.
+I also sketched the Friends Updates / Feed page because this was another super important feature for my project.
+You can post just written text, prompt answers, photos, and voice memos.
+When you post, you will also be able to decide who is able to see each of your posts (either friend groups or individual friends).
+You will also be able to decide which groups you want to see updates from.
+Finally, I decided what the profile would show.
 
-https://www.webdesignmuseum.org/
-https://www.behance.net/search/projects/app%20design%20mobile
+![prototype planning sketch](assets/prototype-sketch.jpg)
+
+It honestly still felt a little too vague in my mind to go directly into making a proper first rough prototype.
+I needed to make my plan more grounded and more concrete from my mind into reality, so I create a 
+[flowchart](https://www.figma.com/board/OZs4BeMmI1TxNxvRWHxU4W/Flowchart---final-project-310?node-id=0-1&t=nPLXSmqjRQMEsY5g-1) on Figma.
+This particularly helped me establish the features that would be avaible on each screen and how the user would navigate the app.
+
+![flowchart](assets/flowchart.png)
+
+After that, I finally felt ready to move into actually building the first prototype.
+
+I ended up creating a bottom navigation bar to switch between the main sections of the app: your orbits, your updates feed, 
+your calendar, your messages, and your profile. 
+This helped ground everything and made it feel like a real, navigable app instead of just separate ideas.
+
+I started with the main orbit page, since that is really the core of the whole concept. This is the first page you see when opening the app. 
+You can view your main orbit, and there is also a tab to switch between different orbits (friend groups). 
+This felt important to establish early on since everything kind of revolves around these social circles.
+
+![Your orbits page prototype 1](assets/p1-main-page.png)
+
+Then I moved on to the updates / feed page, which I think is one of the most important parts of the experience. 
+On this page, you can see your friends’ updates, which can be photos, text, or voice memos. 
+I also added two other types of content:
+
+- “On This Day” memories, which show a shared memory with a friend from a previous date to act as a nostalgia trigger and encourage reaching out
+- Invites / RSVP requests from friends 
+
+To make these easier to distinguish, the memories and RSVP requests are displayed in a different colour than regular updates. 
+Each post has a reply button, but there are no public comments or likes. 
+All responses are private, which helps avoid the pressure and performative feeling of traditional social media.
+
+![Feed/updates page prototype 1](assets/p1-feed.png)
+
+I also created the calendar page, where you can see your upcoming plans. 
+There is a calendar view at the top, and below it a list of upcoming events organized chronologically (closest to furthest), 
+showing what the plan is and who it is with. This keeps planning simple and easy to reference.
+
+![Calendar page prototype 1](assets/p1-calendar.png)
+
+Finally, I worked on the user profile page (although I still need to design the friend’s view of a profile). 
+On your profile, you can see your picture, birthday, current status, and a short bio. 
+There is also a section showing your orbits, where you can access shared photo albums or message people. 
+I also included preferences, such as ways you like to connect and your favourites, which are visible to your friends.
+
+I made a conscious decision to limit what others can see on your profile. 
+Friends can see your basic info and preferences, but not your orbits or your upcoming plans. 
+I want to avoid making the app feel socially competitive or overly social-media-like.
+
+![Calendar page prototype 1](assets/p1-profile.png)
+
+I didn’t have time to complete every page (like messages and the friend profile view), but I focused on building the core parts of the experience first.
+
+Overall, this feels like a really solid first step. It’s the first time the project actually feels like a real app instead of just an idea in my head. 
+Seeing all the pages connected together made me realize that the concept can actually work in practice, not just theoretically. 
+It also helped me notice what still feels unclear or missing, especially in terms of flow and how certain features will actually be used. 
+I still have a lot to refine and build, but having this foundation makes the next steps feel a lot more manageable and less overwhelming.
