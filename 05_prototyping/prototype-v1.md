@@ -13,10 +13,10 @@ Focus on main pages only:
 - Calendar
 - Your profile
 
-![Your orbits page prototype 1](assets/p1-main-page.png)
+![Your orbits page prototype 1](../assets/p1-main-page.png)
 
-![Feed/updates page prototype 1](assets/p1-feed.png)
+![Feed/updates page prototype 1](../assets/p1-feed.png)
 
-![Calendar page prototype 1](assets/p1-calendar.png)
+![Calendar page prototype 1](../assets/p1-calendar.png)
 
-![Calendar page prototype 1](assets/p1-profile.png)
+![Calendar page prototype 1](../assets/p1-profile.png)
