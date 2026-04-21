@@ -1,4 +1,4 @@
-#### [Home](README.md) | [Journal](journal.md) | [1- Problem Space](01_problem-space/brainstorm.md) | [2- Background Research](02_background-research/background-research-findings.md) | [3- User Research](03_user-research/user-research-findings.md) | [4- Analysis](04_analysis/analysis-summary.md) | [5- Prototypes](05_prototyping/prototype-evaluation.md) 
+#### [Home](README.md) | [Journal](journal.md) | [1- Problem Space](01_problem-space/brainstorm.md) | [2- Background Research](02_background-research/background-research-findings.md) | [3- User Research](03_user-research/user-research-findings.md) | [4- Analysis](04_analysis/research-analysis.md) | [5- Prototypes](05_prototyping/prototype-evaluation.md) 
 
 
 # CART-310 Final Project - Process Journal
@@ -326,3 +326,12 @@ Overall, this feels like a really solid first step. It’s the first time the pr
 Seeing all the pages connected together made me realize that the concept can actually work in practice, not just theoretically. 
 It also helped me notice what still feels unclear or missing, especially in terms of flow and how certain features will actually be used. 
 I still have a lot to refine and build, but having this foundation makes the next steps feel a lot more manageable and less overwhelming.
+
+
+## QUICK TIMELINE FOR REST OF PROJECT PROCESS
+
+**05-04-2026:** Prototype 2: Login / Account creation
+
+**07/08-04-2026:** Protype 3: App main pages
+
+**10/11-04-2026:** Final Prootype (4) : all pages + aesthetic makeover
